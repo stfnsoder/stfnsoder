@@ -1,0 +1,6 @@
+hello.txt
+=========
+Skapat för att testa Git och katalogen Projektrepo.
+
+
+Författare: Stefan Söderquist
