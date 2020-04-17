@@ -1,3 +1,3 @@
 README.md
 =============
-This is my first repository
+My first repository on GitHub
